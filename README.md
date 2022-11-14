@@ -356,4 +356,5 @@ namespace UnitTests
 ```
 ##### Результат прохождения тестов:
 ![Alt Text](https://sun1.ncot-by-minsk.userapi.com/impg/zwHPIy2nY2epTWhbK3pUCokYinOxtrIIUyXe4w/LS8i8KTmso8.jpg?size=807x411&quality=96&sign=27f59ccb5dacf54367c7e9c844a7a5b7&type=album)
+
 Исходя из успешного прохождения тестов можно сделать вывод о том, что калькулятор работает корректно.
